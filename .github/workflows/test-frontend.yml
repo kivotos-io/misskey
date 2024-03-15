@@ -3,7 +3,7 @@ name: Test (frontend)
 on:
   push:
     branches:
-      - master
+      - kivotos
       - develop
     paths:
       - packages/frontend/**

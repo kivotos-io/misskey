@@ -3,7 +3,7 @@ name: Check Misskey JS autogen
 on:
   pull_request_target:
     branches:
-      - master
+      - kivotos
       - develop
     paths:
       - packages/backend/**

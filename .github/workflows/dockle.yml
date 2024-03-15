@@ -4,7 +4,7 @@ name: Dockle
 on:
   push:
     branches:
-      - master
+      - kivotos
       - develop
   pull_request:
 

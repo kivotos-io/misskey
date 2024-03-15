@@ -4,7 +4,7 @@ name: Get api.json from Misskey
 on:
   pull_request:
     branches:
-      - master
+      - kivotos
       - develop
     paths:
       - packages/backend/**

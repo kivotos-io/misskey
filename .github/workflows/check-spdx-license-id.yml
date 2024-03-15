@@ -3,7 +3,7 @@ name: Check SPDX-License-Identifier
 on:
   push:
     branches:
-      - master
+      - kivotos
       - develop
   pull_request:
 
